@@ -51,7 +51,7 @@ PASS=""
 ###     Configuration Options    ###
 ####################################
 # Where should the Wallpapers be stored?
-LOCATION=/location/to/your/wallpaper/folder
+LOCATION=.
 # How many Wallpapers should be downloaded, should be multiples of 24 (right now they only use a fixed number of thumbs per page)
 WPNUMBER=48
 # Type standard (newest, oldest, random, hits, mostfav), search, favorites (for now only the default collection), useruploads (if selected, only purity variable will change the outcome)
